@@ -1,0 +1,29 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .yes {
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 43%;
+    border-radius: 40%;
+    height: 40px;
+    width: 60px;
+    background-color: darkblue;
+    color: whitesmoke;
+    font-weight: bold;
+  }
+  .no {
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 53%;
+    border-radius: 40%;
+    height: 40px;
+    width: 60px;
+    background-color: darkblue;
+    color: whitesmoke;
+    font-weight: bold;
+  }
